@@ -1,0 +1,10 @@
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\bin\Debug\Timer.exe.config
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\bin\Debug\Timer.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\bin\Debug\Timer.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Timer\obj\Debug\Timer.pdb

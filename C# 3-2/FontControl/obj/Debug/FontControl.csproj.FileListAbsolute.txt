@@ -1,0 +1,10 @@
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\bin\Debug\FontControl.exe.config
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\bin\Debug\FontControl.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\bin\Debug\FontControl.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.csproj.AssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.Form1.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.Properties.Resources.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.csproj.GenerateResource.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\FontControl\obj\Debug\FontControl.pdb

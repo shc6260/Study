@@ -1,0 +1,10 @@
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\bin\Debug\Progress.exe.config
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\bin\Debug\Progress.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\bin\Debug\Progress.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.csproj.AssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.Form1.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.Properties.Resources.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.csproj.GenerateResource.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\Progress\obj\Debug\Progress.pdb
