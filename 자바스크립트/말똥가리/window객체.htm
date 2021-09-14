@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>window 객체 속성 169-1 </title>
+  <script>
+	var windo = null;
+    function inwindow(){
+	windo = window.open("169-2.htm");
+	}
+    function outwindow(){
+	if(windo != null)
+	  windo.close();
+	}
+  </script>
+</head>
+<body>
+  <form>
+	<input type="button" value = "윈도우 open" onClick = "inwindow()">
+	<input type="button" value = "윈도우 close" onClick = "outwindow()">
+	<input type="button" value = "내용인쇄" onClick = "window.print()">
+  </form>
+</body>
+</html>

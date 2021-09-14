@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <script>
+  function display(){
+	  document.write("이름:"+this.name);
+  }
+  function pinfor(pname){
+	  this.name=pname;
+	  this.print=display;
+  }
+  </script>
+ </head>
+ <body>
+  <script>
+  p1=new pinfor("홍길동");
+  p1.print();
+  </script>
+ </body>
+</html>

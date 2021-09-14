@@ -1,0 +1,58 @@
+﻿<!doctype html>
+	<head>
+		<meta charset="UTF-8">
+		<title>calculator</title>
+
+		<script>
+			function  Equals(Cstr)
+			{
+				Cstr.value = eval(Cstr.value);
+			}
+			function  Cal(Cstr,C)
+			{
+				Cstr.value += C.value;
+			}
+			function Clear(Cstr)
+			{
+				Cstr.value = "";
+			}
+		</script>
+
+		<style>
+			form{
+				border-style : inset;
+				border-color : #E7523F;
+				width : 250px;
+				padding-left : 20px;
+				padding-top : 20px;
+				padding-bottom : 20px;
+				margin : 100px;
+				background-color : gray;
+			}
+		</style>
+	</head>
+	
+	<body bgcolor = "black">
+		<form name="calculator"> 
+			<input type="text" name="str" value="" size="20" style="font-size:15pt;width : 220px"></br></br>
+		
+			<input type="button" value="0" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="1" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="2" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="3" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="4" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)"></br>
+			<input type="button" value="5" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="6" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="7" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="8" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="9" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)"></br>
+			<input type="button" value="+" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="-" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="*" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="/" style = "width : 30pt ; height : 30pt" onclick="Cal(this.form.str,this)">
+			<input type="button" value="=" style = "width : 30pt ; height : 30pt" onclick="Equals(this.form.str)"></br>
+
+			<input type="button" value="c" style = "width : 167pt ; height : 30pt" onclick="Clear(this.form.str)">
+		</form>
+	</body>
+</html>

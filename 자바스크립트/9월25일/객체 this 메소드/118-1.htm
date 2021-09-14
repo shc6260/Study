@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>THIS 대칭어 118-1</title>
+	<script>
+	  function display(){
+		  with(p1){
+		document.write("이름은 " +  name + " 입니다.<br>");
+		document.write("전공은 " +  major + " 이고, <br>");
+		document.write("학번은 " +  hakbun + " 이며,<br>");
+		document.write("나이는 " +  age + " 입니다.<br>");
+		  }
+		}
+	  function pp(pname,pmajor,phakbun,page){
+		this.name = pname;
+		this.major = pmajor;
+		this.hakbun = phakbun;
+		this.age = page;
+		}
+	</script>
+</head>
+<body>
+	<script>
+	  p1 = new pp("홍길동","소프트웨어",201501001,22);
+	  display();
+	</script>
+</body>
+</html>

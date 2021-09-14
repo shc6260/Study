@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>switch</title>
+
+</head>
+<body>
+  <script>
+	var mm = Math.floor((Math.random()*7)+1);
+	//1~7까지 난수중에서 소숫점 이상
+	document.write("mm은 " + mm + " 입니다.<p>");
+	switch(mm){
+		case 1: 
+		    alert("오늘은 월요일 입니다");
+		    break;
+		case 2: 
+		    alert("오늘은 화요일 입니다");
+		    break;
+		case 3: 
+		    alert("오늘은 수요일 입니다");
+		    break;
+		case 4: 
+		    alert("오늘은 목요일 입니다");
+		    break;
+		case 5: 
+		    alert("오늘은 금요일 입니다");
+		    break;
+		case 6: 
+		    alert("오늘은 토요일 입니다");
+		    break;
+		default: 
+		    alert("오늘은 휴일 입니다");
+		    break;
+		  }
+  </script>
+</body>
+</html>

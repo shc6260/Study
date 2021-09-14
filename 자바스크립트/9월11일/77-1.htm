@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>조건문</title>
+
+</head>
+<body>
+  <script>
+	var age = prompt("나이를 입력하세요?");
+	if (age > 0 && age <= 12 ) { 
+		document.write("당신은 유아거나 어린이 입니다!");
+		}
+	  else if (age > 12 && age < 20 ) { 
+		document.write("당신은 청소년 입니다.");
+		}
+	  else if (age >= 20 && age < 60 ) { 
+		document.write("당신은 성인이신군요.");
+		}
+	  else if (age >= 60) { 
+		document.write("어르신 이신군요.");
+		}
+  </script>
+</body>
+</html>

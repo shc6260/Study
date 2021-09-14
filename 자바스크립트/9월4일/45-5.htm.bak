@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>prompt alert eval</title>
+
+</head>
+<body>
+  <script>
+	var sum = eval(prompt("30+40을 입력하세요",""));
+	var ss = eval(parseInt(sum));
+	alert("30+40은 " + sum + " 입니다");
+
+  </script>
+</body>
+</html>

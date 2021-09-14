@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>문제3</title>
+  <script>
+     function weekDay(ss){
+	var now = ss.getDay();
+	var names = new Array(7);
+	names[0] = "일요일";
+	names[1] = "월요일";
+	names[2] = "화요일";
+	names[3] = "수요일";
+	names[4] = "목요일";
+	names[5] = "금요일";
+	names[6] = "토요일";
+	return(names[now]);
+	}
+  </script>
+</head>
+<body>
+  <script>
+	var today = new Date();
+	var year = today.getFullYear();
+	var month = today.getMonth() + 1;
+	var day = today.getDate();
+	var str = new String("Time and tide wait for no man.");
+	document.write(year + "년 " + month + "월 " + day + "일");
+	var dd = weekDay(today);
+	document.write("은 " + dd + " 이고,<br>"); 
+	document.write(str);
+	document.write("<br>문장 중에 마지막 m 자 위치는 : " + str.lastIndexOf("m") + " 입니다.)"); 
+  </script>
+</body>
+</html>

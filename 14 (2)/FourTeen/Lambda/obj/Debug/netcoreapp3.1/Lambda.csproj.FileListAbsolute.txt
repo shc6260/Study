@@ -1,0 +1,25 @@
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\YUHAN\Desktop\14\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.csprojAssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>THIS 대칭어 with 문 118-5</title>
+	<script>
+	  function display(){
+	     with(document){
+		with(this){
+		write("이름은 " + name + " 입니다.<br>");
+		write("전공은 " + major + " 이고, <br>");
+		write("학번은 " + hakbun + " 이며,<br>");
+		write("나이는 " + age + " 입니다.<br>");
+			  }
+			   }
+		}
+	  function pp(pname,pmajor,phakbun,page){
+	    with(this){
+		name = pname;
+		major = pmajor;
+		hakbun = phakbun;
+		age = page;
+		this.kk = display;
+		      }
+		}
+	</script>
+</head>
+<body>
+	<script>
+	  p1 = new pp("홍길동","소프트웨어",201501001,22);
+	  p2 = new pp("홍길동2","소프트웨어2",201501002,23);
+	  p1.kk();
+	  p2.kk();
+	</script>
+</body>
+</html>

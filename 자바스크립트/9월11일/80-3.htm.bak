@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>(Math.random()*10)+1</title>
+
+</head>
+<body>
+  <script>
+	var mm = Math.random();	//144페이지 참조
+	document.write("mm은 " + mm + " 입니다.<p>");
+	var mm = Math.random()*10;
+	document.write("mm은 " + mm + " 입니다.<p>");
+	var mm = (Math.random()*10)+1;//0~10까지 난수
+	document.write("mm은 " + mm + " 입니다.<p>");
+  </script>
+</body>
+</html>

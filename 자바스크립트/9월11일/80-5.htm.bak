@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>Math.floor((Math.random()*7)+1)</title>
+
+</head>
+<body>
+  <script>
+	var mm = Math.floor((Math.random()*7)+1);
+	//144페이지 참조
+	document.write("mm은 " + mm + " 입니다.<p>");
+
+  </script>
+</body>
+</html>

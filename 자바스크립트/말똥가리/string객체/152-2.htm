@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>prototype 객체확장 152-1 </title>
+  <script>
+     function ucLarge(ss,kk2){
+	var pp=ss.bold().fontcolor(kk2).toUpperCase().fontsize("22");
+	return(pp);
+	}
+  </script>
+</head>
+<body bgcolor=yellow>
+      <div align="center">
+  <script>
+	var str="동물(animal)을 사랑합시다!!";
+	kk = ucLarge(str,"red");
+	document.write(kk);
+	rr = "(길이 " + str.length + " 입니다.)";
+	pp = ucLarge(rr, "green");
+	document.write(pp); 
+  </script>
+      </div>
+</body>
+</html>

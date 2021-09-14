@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>while break continue 86-1</title>
+</head>
+<body>
+	<script>
+	   var kk = confirm("작업을 하시려면 확인을 누르세요");
+	   while(kk){
+		var gg = eval(prompt("점수를 입력하세요?"));
+		if(gg < 0 || gg > 100) {
+		  alert("점수가 잘못 입력 되었습니다!!");
+		  continue; // 블록의 처음으로 갑니다
+					}
+		if(gg > 89) {
+			alert("A 입니다");
+			    }
+		  else if(gg >79){
+				alert("B 입니다");
+				 }
+		       else if(gg > 69){
+				  alert("C 입니다");
+				       }
+			    else if(gg > 59){
+				     alert("D 입니다");
+					    }
+				else { alert("F 입니다");
+				     }
+		aa = prompt("다시 하시겠습니까? (y/n)","y");
+		if(aa != "y"){
+		          break;
+			     }
+		     }
+		alert("프로그램이 종료 됩니다");
+
+	</script>
+</body>
+</html>

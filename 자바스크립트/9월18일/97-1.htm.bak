@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>이벤트 핸들러 onClick 97-1</title>
+	<script>
+	  function gg(){
+		document.bgColor="skyblue";
+		alert("당신을 환영합니다.");
+		}
+	</script>
+</head>
+<body bgcolor="yellow">
+	<div align="center">
+	  <form>
+		<input type="button" value="버튼을 누르세요" onClick="gg();">
+	  </form>
+	</div>
+</body>
+</html>

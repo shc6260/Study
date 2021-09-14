@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>(Math.random()*7)+1</title>
+
+</head>
+<body>
+  <script>
+	var mm = (Math.random()*7)+1;//0~
+	document.write("mm은 " + mm + " 입니다.<p>");
+
+  </script>
+</body>
+</html>

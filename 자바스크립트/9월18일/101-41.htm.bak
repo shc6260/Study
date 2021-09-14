@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>return  101-4</title>
+	<script>
+	  function gg(vv1,vv2){//return 값이 있는 경우
+		var sum = vv1 + vv2;
+		return sum;
+		}
+	</script>
+</head>
+<body>
+	<script>
+	  returnv = gg(50,50);
+	  document.write("결과 = " + returnv);
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>객체확장 142-2 </title>
+  <script>
+     function weekDay(ss){
+	var now = ss.getDay();
+	var names = new Array(7);
+	names[0] = "일요일";
+	names[1] = "월요일";
+	names[2] = "화요일";
+	names[3] = "수요일";
+	names[4] = "목요일";
+	names[5] = "금요일";
+	names[6] = "토요일";
+	return(names[now]);
+	}
+  </script>
+</head>
+<body>
+  <script>
+	var today = new Date();
+	var year = today.getFullYear();
+	var month = today.getMonth() + 1;
+	var day = today.getDate();
+	document.write(year + "년 " + month + "월 " + day + "일");
+	var dd = weekDay(today);
+	document.write("은 " + dd + " 입니다."); 
+  </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>중첩 loop 89-1</title>
+</head>
+<body>
+	<script>
+	var str = "*";
+	outerloop: for (i = 0; i < 11; i++){
+		innerloop: for (j = 0; j < i; j++){
+			document.write(str);
+		}
+	  if(i == 7){
+		break outerloop;
+		    }
+	  document.write("<br>");
+	}
+	</script>
+</body>
+</html>

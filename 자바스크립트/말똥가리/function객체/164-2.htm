@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>Function 객체</title>
+</head>
+<body>
+  <script>
+	var sum = new Function("a","b","return a * b;");
+	window.onload = new Function("document.bgColor='yellow';");
+
+	document.write("합계는 : " + sum(5, 10) + "<br>");
+	document.write("배경색은 노랑입니다<br>");
+  </script>
+</body>
+</html>

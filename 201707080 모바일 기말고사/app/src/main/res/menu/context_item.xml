@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+
+    >
+
+    <item
+        android:visible="false"
+        android:id="@+id/style_Menu"
+        android:title="Style" >
+
+    <menu>
+
+        <item
+
+            android:id="@+id/normal_Menu"
+            android:title="Normal"/>
+
+
+
+        <item
+
+            android:id="@+id/bold_menu"
+            android:title="Bold"/>
+
+        <item
+
+            android:id="@+id/italic_menu"
+            android:title="Italic"/>
+
+    </menu>
+
+    </item>
+</menu>

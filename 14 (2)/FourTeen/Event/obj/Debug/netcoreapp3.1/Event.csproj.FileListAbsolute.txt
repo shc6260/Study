@@ -1,0 +1,26 @@
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Users\YUHAN\Desktop\14\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Users\shc62\OneDrive\바탕 화면\14 (2)\FourTeen\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

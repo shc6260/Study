@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head><title>for 84-1</title>
+</head>
+<body>
+	<font size="+5">
+	<script>
+	   for ( var i = 0; i < 10; i++) {
+		document.writeln(i);
+	      } 
+	</script>
+	</font>
+</body>
+</html>
