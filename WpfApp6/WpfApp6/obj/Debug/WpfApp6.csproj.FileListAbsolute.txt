@@ -1,0 +1,16 @@
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\View\MainWindow.g.cs
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\View\MainWindow.baml
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\shc62\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb

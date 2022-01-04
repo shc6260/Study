@@ -1,0 +1,20 @@
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.AssemblyReference.cache
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.GenerateResource.cache
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.CoreCompileInputs.cache
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\shc62\source\repos\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.AssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.GenerateResource.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\TrayIcon.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\0928\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

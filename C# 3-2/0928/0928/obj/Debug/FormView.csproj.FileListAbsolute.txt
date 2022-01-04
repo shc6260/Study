@@ -1,0 +1,12 @@
+C:\Users\shc62\source\repos\0928\0928\bin\Debug\0928.exe.config
+C:\Users\shc62\source\repos\0928\0928\bin\Debug\0928.exe
+C:\Users\shc62\source\repos\0928\0928\bin\Debug\0928.pdb
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\FormView.csproj.AssemblyReference.cache
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\_0928.Form1.resources
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\_0928.Form2.resources
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\_0928.Form3.resources
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\_0928.Properties.Resources.resources
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\FormView.csproj.GenerateResource.cache
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\FormView.csproj.CoreCompileInputs.cache
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\0928.exe
+C:\Users\shc62\source\repos\0928\0928\obj\Debug\0928.pdb

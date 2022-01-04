@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormView", "0928\FormView.csproj", "{54B00BDD-0295-4241-866F-A4C289A97B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrayIcon", "WindowsFormsApp1\TrayIcon.csproj", "{DB95CFDE-96CF-46F2-8499-C9BC1A775A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B00BDD-0295-4241-866F-A4C289A97B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B00BDD-0295-4241-866F-A4C289A97B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B00BDD-0295-4241-866F-A4C289A97B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B00BDD-0295-4241-866F-A4C289A97B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB95CFDE-96CF-46F2-8499-C9BC1A775A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB95CFDE-96CF-46F2-8499-C9BC1A775A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB95CFDE-96CF-46F2-8499-C9BC1A775A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB95CFDE-96CF-46F2-8499-C9BC1A775A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA952F50-5FA5-40AD-A927-4E1AFFF0C823}
+	EndGlobalSection
+EndGlobal

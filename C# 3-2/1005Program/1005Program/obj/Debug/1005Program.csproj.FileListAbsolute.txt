@@ -1,0 +1,12 @@
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\bin\Debug\1005Program.exe.config
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\bin\Debug\1005Program.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\bin\Debug\1005Program.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\1005Program.csproj.AssemblyReference.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\_1005Program.Form1.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\_1005Program.Form2.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\_1005Program.Properties.Resources.resources
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\1005Program.csproj.GenerateResource.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\1005Program.csproj.CoreCompileInputs.cache
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\1005Program.exe
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\1005Program.pdb
+C:\Users\shc62\OneDrive\바탕 화면\Study\C# 3-2\1005Program\1005Program\obj\Debug\_1005Program.ProcessView.Form1.resources
